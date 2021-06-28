@@ -1,27 +1,17 @@
-# atividade_pratica_dashboards_powerBI
-
 
 <h1 align="center">
     <a>🔗 Dashboards Power BI</a>
 </h1>
+<hr>
 <p align="center">Atividade prática utilizando exemplos feitos no evento @AceleradorDeCarreiraComPowerBI</p>
+<hr>
 
-
-<p align="center"> •
-  <a href="#objetivo">Objetivo</a> •
-  <a href="#tecnologias">Ferramenta Utilizada</a> •
-  <a href="#tecnologias">Autora</a> •
-</p>
 
 <br>
-
 <b>Objetivo: </b> Atividade prática onde utilizo Power BI para praticar um pouco dessa ferramenta.
+<br><br>
 
-<br>
-
-<b>Ferramenta Utilizada: </b> [Microsoft Power BI Desktop](https://www.microsoft.com/pt-BR/download/details.aspx?id=58494)
-
-<br>
+<b>Ferramenta Utilizada: </b>[Microsoft Power BI Desktop](https://www.microsoft.com/pt-BR/download/details.aspx?id=58494)
 
 <!--
 <b>Autora:
@@ -48,6 +38,8 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 - [ ] Dashboard de Vendas
 - [ ] Dashboard de Projetos
 - [ ] Dashboard de Suprimentos
+
+### Demonstração da aplicação (captura de telas)
 
 
 
