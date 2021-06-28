@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <a>🔗 Dashboards Power BI</a>
+    <a>📊 Dashboards Power BI</a>
 </h1>
 <hr>
 <p align="center">Atividade prática utilizando exemplos feitos no evento @AceleradorDeCarreiraComPowerBI</p>
@@ -8,7 +8,7 @@
 
 
 <br>
-<b>Objetivo: </b> Atividade prática onde utilizo Power BI para praticar um pouco dessa ferramenta.
+<b>Objetivo: </b> Atividade prática onde utilizo conceitos de Power BI para praticar um pouco.
 <br><br>
 
 <b>Ferramenta Utilizada: </b>[Microsoft Power BI Desktop](https://www.microsoft.com/pt-BR/download/details.aspx?id=58494)
@@ -29,17 +29,17 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 -->
 
 <h4 align="center"> 
-	🚧  Power BI 🚀 Em construção...  🚧
+	🚧  Power BI 📊 Em construção...  🚧
 </h4>
 
-### Tipo de Dashboard
+### 📍 Tipo de Dashboard
 
 - [ ] Dashboard de Recursos Humanos
 - [ ] Dashboard de Vendas
 - [ ] Dashboard de Projetos
 - [ ] Dashboard de Suprimentos
 
-### Demonstração da aplicação (captura de telas)
+### 📍 Demonstração da aplicação (captura de telas)
 
 
 
