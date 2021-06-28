@@ -23,8 +23,12 @@
 
 <br>
 
+<!--
 <b>Autora:
-
+	
+<img style="border-radius: 50%;" src="" width="100px;" alt=""/>
+ <br />
+ <sub><b>Nathalia Ohana 🚀</b></sub></a>
 	
 
 Feito com ❤️ por Nathalia Ohana 👋🏽
@@ -32,6 +36,7 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 [![Linkedin Badge](https://img.shields.io/badge/-Nathalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/)](https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/)	
 [![Gmail Badge](https://img.shields.io/badge/-nathe557@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:nathe557@gmail.com)](mailto:nathe557@gmail.com)	
 </b>
+-->
 
 <h4 align="center"> 
 	🚧  Power BI 🚀 Em construção...  🚧
