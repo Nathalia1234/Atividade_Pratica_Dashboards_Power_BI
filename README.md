@@ -9,7 +9,8 @@
 
 <p align="center"> •
   <a href="#objetivo">Objetivo</a> •
- <a href="#tecnologias">Ferramenta Utilizada</a> 
+  <a href="#tecnologias">Ferramenta Utilizada</a> •
+  <a href="#tecnologias">Autora</a> •
 </p>
 
 <br>
@@ -21,6 +22,16 @@
 <b>Ferramenta Utilizada: </b> [Microsoft Power BI Desktop](https://www.microsoft.com/pt-BR/download/details.aspx?id=58494)
 
 <br>
+
+<b>Autora:
+
+	
+
+Feito com ❤️ por Nathalia Ohana 👋🏽
+	
+[![Linkedin Badge](https://img.shields.io/badge/-Nathalia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/)](https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/)	
+[![Gmail Badge](https://img.shields.io/badge/-nathe557@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:nathe557@gmail.com)](mailto:nathe557@gmail.com)	
+</b>
 
 <h4 align="center"> 
 	🚧  Power BI 🚀 Em construção...  🚧
