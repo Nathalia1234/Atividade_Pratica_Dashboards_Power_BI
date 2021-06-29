@@ -34,12 +34,15 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 
 ### 📍 Tipo de Dashboard
 
-- [ ] Dashboard de Recursos Humanos
+- [x] Dashboard de Recursos Humanos
 - [ ] Dashboard de Vendas
 - [ ] Dashboard de Projetos
 - [ ] Dashboard de Suprimentos
 
 ### 📍 Demonstração da aplicação (captura de telas)
+
+<FONT FACE=Arial COLOR="#00AA00">Dashboard de Recursos Humanos</FONT>
+
 
 
 
