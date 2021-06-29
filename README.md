@@ -41,8 +41,8 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 
 ### 📍 Demonstração da aplicação (captura de telas)
 
-<FONT FACE=Arial COLOR="#00AA00">Dashboard de Recursos Humanos</FONT>
-
+<h3>Dashboard de Recursos Humanos</h3>
+<img src="">
 
 
 
