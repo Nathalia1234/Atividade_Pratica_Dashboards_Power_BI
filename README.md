@@ -43,7 +43,7 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 
 <h3>Dashboard de Recursos Humanos</h3>
 <p align="center">
-	<img width="460" height="300" src="src/assets/Dashboard Recursos Humanos.PNG">
+	<img width="460" height="300" src="src/assets/Dashboard Recursos Humanoss.PNG">
 </p>
 
 
