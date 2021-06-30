@@ -41,7 +41,6 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 
 ### 📍 Demonstração da aplicação (captura de telas)
 <br>
-<br>
 <h3 align="center">Dashboard de Recursos Humanos</h3>
 <p align="center">
 	<img width="460" height="300" src="src/assets/Dashboard Recursos Humanoss.PNG">
