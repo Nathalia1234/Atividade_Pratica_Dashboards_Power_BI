@@ -40,19 +40,20 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 - [ ] Dashboard de Suprimentos
 
 ### 📍 Demonstração da aplicação (captura de telas)
-
+<br>
+<br>
 <h3 align="center">Dashboard de Recursos Humanos</h3>
 <p align="center">
 	<img width="460" height="300" src="src/assets/Dashboard Recursos Humanoss.PNG">
 </p>
 
 
-<h3>Dashboard de Vendas</h3>
+<h3 align="center">Dashboard de Vendas</h3>
 <p align="center">
 	<img width="460" height="300" src="src/assets/Dashboard Vendas.PNG">
 </p>
 
 
-<h3>Dashboard de Projetos</h3>
+<h3 align="center">Dashboard de Projetos</h3>
 
 
