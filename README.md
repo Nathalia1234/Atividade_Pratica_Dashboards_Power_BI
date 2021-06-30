@@ -34,7 +34,7 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 
 ### 📍 Tipo de Dashboard
 
-- [x] Dashboard de Recursos Humanos
+- [ ] Dashboard de Recursos Humanos
 - [x] Dashboard de Vendas
 - [ ] Dashboard de Projetos
 - [ ] Dashboard de Suprimentos
