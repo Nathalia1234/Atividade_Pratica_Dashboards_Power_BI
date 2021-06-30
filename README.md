@@ -35,7 +35,7 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 ### 📍 Tipo de Dashboard
 
 - [x] Dashboard de Recursos Humanos
-- [ ] Dashboard de Vendas
+- [x] Dashboard de Vendas
 - [ ] Dashboard de Projetos
 - [ ] Dashboard de Suprimentos
 
@@ -48,7 +48,9 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 
 
 <h3>Dashboard de Vendas</h3>
-
+<p align="center">
+	<img width="460" height="300" src="src/assets/Dashboard Vendas.PNG">
+</p>
 
 
 
