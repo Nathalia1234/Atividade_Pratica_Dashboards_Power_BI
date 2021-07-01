@@ -36,7 +36,7 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 
 - [x] Dashboard de Recursos Humanos
 - [x] Dashboard de Vendas
-- [ ] Dashboard de Projetos
+- [x] Dashboard de Projetos
 - [ ] Dashboard de Suprimentos
 
 ### 📍 Demonstração da aplicação (captura de telas)
@@ -54,5 +54,10 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 
 
 <h3 align="center">Dashboard de Projetos</h3>
-
+<p align="center">
+	<img width="460" height="300" src="src/assets/Dashboard de Projetos_1.PNG">
+</p>
+<p align="center">
+	<img width="460" height="300" src="src/assets/Dashboard de Projetos_2.PNG">
+</p>
 
