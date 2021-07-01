@@ -61,3 +61,5 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 	<img width="460" height="300" src="src/assets/Dashboard de Projetos_2.PNG">
 </p>
 
+
+<h3 align="center">Dashboard de Suprimentos</h3>
