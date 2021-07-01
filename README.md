@@ -49,7 +49,7 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 
 <h3 align="center">Dashboard de Vendas</h3>
 <p align="center">
-	<img width="460" height="300" src="src/assets/Dashboard Vendas.PNG">
+	<img width="460" height="460" src="src/assets/Dashboard Vendas.PNG">
 </p>
 
 
