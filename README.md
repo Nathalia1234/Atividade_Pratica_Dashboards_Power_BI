@@ -2,6 +2,14 @@
 <h1 align="center">
     <a>📊 Dashboards Power BI</a>
 </h1>
+
+<h1 align="center">
+	
+![image](https://user-images.githubusercontent.com/37275221/125129185-732e4480-e0d5-11eb-8cda-4bfac201b961.png)  ![image](https://user-images.githubusercontent.com/37275221/125129279-9bb63e80-e0d5-11eb-988c-d46d4c130f50.png)
+
+
+</h1>
+
 <hr>
 <p align="center">Atividade prática utilizando exemplos feitos no evento @AceleradorDeCarreiraComPowerBI</p>
 <hr>
