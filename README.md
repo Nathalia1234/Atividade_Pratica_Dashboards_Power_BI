@@ -71,9 +71,11 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 
 
 <h3 align="center">Dashboard de Suprimentos</h3>
+<p align="center">Modo Dark</p>
 <p align="center">
 	<img width="460" height="300" src="src/assets/Dashboard de Suprimentos_DARK.PNG">
 </p>
+<p align="center">Modo Light</p>
 <p align="center">
 	<img width="460" height="300" src="src/assets/Dashboard de Suprimentos_LIGHT.PNG">
 </p>
