@@ -16,7 +16,7 @@
 
 
 <br>
-<b>Objetivo: </b> Atividade prática onde utilizo conceitos de Power BI para construir e personalizar Dashboards, incluindo fórmulas especificas também para tratar tabelas.
+<b>Objetivo: </b> Atividade prática onde utilizo conceitos de Power BI para construir e personalizar Dashboards, incluindo fórmulas especificas para tratar tabelas.
 <br><br>
 
 <b>Ferramenta Utilizada: </b>[Microsoft Power BI Desktop](https://www.microsoft.com/pt-BR/download/details.aspx?id=58494)
