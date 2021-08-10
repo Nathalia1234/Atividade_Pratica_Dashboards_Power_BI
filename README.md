@@ -86,7 +86,7 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
  
  <h3> Autora </h3>
 <hr>
- <img src="src/assets/avatar.png" width="100px;" alt="" style="max-width:100%;">
+ <img src="https://user-images.githubusercontent.com/37275221/128225936-63e177ee-88ae-48a1-8bd4-86e04d14b402.png" width="100px;" alt="" style="max-width:100%;">
  
 <b><sub><a>Nathalia Ohana</b></sub></a>
  
