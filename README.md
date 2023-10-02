@@ -37,7 +37,7 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
 -->
 
 <h4 align="center"> 
-	🚧  Power BI 📊 Em construção...  🚧
+	Power BI 📊
 </h4>
 
 ### 📍 Tipo de Dashboard
