@@ -90,7 +90,7 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
  
 <b><sub><a>Nathalia Ohana</b></sub></a>
  
-<p>Feito com <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> por Nathalia Ohana 👋🏽 Entre em contato!</p>
+<p>Feito com <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> por Nathalia Ohana 👋🏽 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/)](https://www.linkedin.com/in/nath%C3%A1lia-ohana-867524134/)
 
