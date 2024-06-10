@@ -87,10 +87,9 @@ Feito com ❤️ por Nathalia Ohana 👋🏽
  <br>
  
  <h3> Autora </h3>
+ 
 <hr>
  <img src="https://user-images.githubusercontent.com/37275221/128225936-63e177ee-88ae-48a1-8bd4-86e04d14b402.png" width="100px;" alt="" style="max-width:100%;">
- 
-<b><sub><a>Nathalia Ohana</b></sub></a>
  
 <p>Feito com <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> por Nathalia Ohana 👋🏽 </p>
 
