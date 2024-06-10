@@ -5,7 +5,7 @@
 
 <h1 align="center">
 	
-![image](https://user-images.githubusercontent.com/37275221/125129185-732e4480-e0d5-11eb-8cda-4bfac201b961.png)  ![image](https://user-images.githubusercontent.com/37275221/125129279-9bb63e80-e0d5-11eb-988c-d46d4c130f50.png)
+![image](https://user-images.githubusercontent.com/37275221/125129185-732e4480-e0d5-11eb-8cda-4bfac201b961.png)  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/></a><a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank">
 
 
 </h1>
@@ -19,7 +19,9 @@
 <b>Objetivo: </b> Atividade prática onde utilizo conceitos de Power BI para construir e personalizar Dashboards, incluindo fórmulas especificas para tratar tabelas.
 <br><br>
 
-<b>Ferramenta Utilizada: </b>[Microsoft Power BI Desktop](https://www.microsoft.com/pt-BR/download/details.aspx?id=58494)
+<b>Ferramentas Utilizadas: </b> 
+- [Microsoft Power BI Desktop](https://www.microsoft.com/pt-BR/download/details.aspx?id=58494)
+- [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel?ef_id=_k_EAIaIQobChMI2IXEqP3PhgMV-VtIAB0YawDaEAAYASAAEgIrJPD_BwE_k_&OCID=AIDcmmq9ldqz5w_SEM__k_EAIaIQobChMI2IXEqP3PhgMV-VtIAB0YawDaEAAYASAAEgIrJPD_BwE_k_&gad_source=1&gclid=EAIaIQobChMI2IXEqP3PhgMV-VtIAB0YawDaEAAYASAAEgIrJPD_BwE)
 
 <!--
 <b>Autora:
